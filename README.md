@@ -1,0 +1,1 @@
+message-queue-with-rabbitmq
